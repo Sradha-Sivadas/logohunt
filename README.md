@@ -38,10 +38,11 @@ src/
 ├── assets/
 public/
 ├── logos/
-README.md
-package.json
-vite.config.js
+eslint.config.js
 index.html
+package.json
+postcss.config.cjs
+vite.config.js
 ```
 
 ## Screenshots
