@@ -31,6 +31,23 @@ src/
 ├── index.css
 ```
 
+## Screenshots
+
+### Start Page
+<img src="./src/assets/publicassetsstart.png" alt="Start Page" width="800" />
+
+### Home Page
+<img src="./src/assets/publicassetshome.png" alt="Home Page" width="800" />
+
+### Puzzle Page
+<img src="./src/assets/publicassetspuzzle.png" alt="Puzzle Page" width="800" />
+
+### Completed Page
+<img src="./src/assets/publicassetscompleted.png" alt="Completed Page" width="800" />
+
+### Leaderboard Page
+<img src="./src/assets/publicassetsleaderboard.png" alt="Leaderboard Page" width="800" />
+
 ## How to Run
 
 Clone the repository:
