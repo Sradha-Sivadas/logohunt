@@ -48,6 +48,64 @@ src/
 ### Leaderboard Page
 <img src="./src/assets/publicassetsleaderboard.png" alt="Leaderboard Page" width="800" />
 
+## Prerequisites
+
+Before running the project, make sure you have:
+
+- Node.js installed
+- npm installed
+
+You can check by running:
+
+```bash
+node -v
+npm -v
+```
+
+## Getting Started
+
+Clone the repository:
+
+```bash id="yf2"
+git clone https://github.com/Sradha-Sivadas/logohunt.git
+```
+
+Install dependencies:
+
+```bash id="yf3"
+npm install
+```
+
+Start development server:
+
+```bash id="yf4"
+npm run dev
+```
+
+## Build for Production
+
+To create a production build:
+
+```bash
+npm run build
+```
+
+Preview the built app:
+
+```bash
+npm run preview
+```
+
+## Gameplay Overview
+
+- The user begins on the Home screen
+- Enters a name on the Start page
+- Starts the game and solves a logo puzzle by dragging pieces into place
+- Tracks the countdown timer and progress across multiple rounds
+- Advances to the next puzzle after each completed round
+- Reaches the completion screen after finishing all puzzles
+- View the leaderboard to see top scores
+
 ## How to Run
 
 Clone the repository:
