@@ -4,20 +4,20 @@
 ![Vite](https://img.shields.io/badge/Vite-7.2.4-646CFF?logo=vite&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?logo=javascript&logoColor=black)
 
-LogoHunt is a browser-based logo puzzle game where players rearrange shuffled image pieces to recreate a logo before time runs out.
+LogoHunt is an interactive browser game where players rebuild shuffled logo puzzles by arranging the pieces into the correct order before the timer runs out.
 
 ## About the Game
 
-LogoHunt turns logo recognition into a fast, fun puzzle challenge. Players enter their name, start a round, and drag pieces into the correct position to complete each logo. The game tracks time, progress, and leaderboard scores for a simple competitive experience.
+LogoHunt is a fast, engaging puzzle experience built with React. Players enter their name, begin a round, and solve a series of logo-based challenges by dragging and arranging pieces. The game combines quick decision-making, visual recognition, and score-based progression in a polished, lightweight format.
 
 ## Features
 
-- Drag-and-drop logo puzzles
+- Interactive logo puzzle gameplay
+- Drag-and-drop piece arrangement
 - Countdown timer for each round
-- Multiple levels of gameplay
-- Home, start, puzzle, completion, and leaderboard screens
-- Leaderboard saved in the browser
-- Simple, responsive UI
+- Multiple puzzle rounds
+- Home, start, puzzle, complete, and leaderboard screens
+- Simple and responsive interface
 
 ## Tech Stack
 
@@ -26,8 +26,6 @@ LogoHunt turns logo recognition into a fast, fun puzzle challenge. Players enter
 - JavaScript
 - HTML
 - CSS
-- react-dnd
-- localStorage
 
 ## Project Structure
 
@@ -85,7 +83,7 @@ Clone the repository:
 git clone https://github.com/Sradha-Sivadas/logohunt.git
 ```
 
-Go into the project folder:
+Go to the project folder:
 
 ```bash
 cd logohunt
@@ -97,7 +95,7 @@ Install dependencies:
 npm install
 ```
 
-Start the app:
+Start the development server:
 
 ```bash
 npm run dev
@@ -107,7 +105,7 @@ Then open the local URL shown in the terminal.
 
 ## How to Play
 
-1. Open the Home page and click Start.
+1. Open the Home screen and click Start.
 2. Enter your name.
 3. Start the puzzle round.
 4. Drag and drop the shuffled pieces to rebuild the logo.
