@@ -8,7 +8,7 @@ LogoHunt is an interactive browser game where players rebuild shuffled logo puzz
 
 ## About the Game
 
-LogoHunt is a fast, engaging puzzle experience built with React. Players enter their name, begin a round, and solve a series of logo-based challenges by dragging and arranging pieces. The game combines quick decision-making, visual recognition, and score-based progression in a polished, lightweight format.
+LogoHunt is a fast, engaging puzzle experience built with React. Players enter their name, begin a round, and solve a series of logo-based challenges by dragging and arranging pieces. The game combines speed, focus, and a bit of memory to deliver a fun browser-based challenge.
 
 ## Features
 
@@ -49,15 +49,15 @@ index.html
 <div align="center">
   <table>
     <tr>
-      <td align="center"><img src="./src/assets/publicassetshome.png" alt="Home Page" width="420" /></td>
+      <td align="center" colspan="2"><img src="./src/assets/publicassetshome.png" alt="Home Page" width="100%" /></td>
+    </tr>
+    <tr>
       <td align="center"><img src="./src/assets/publicassetsstart.png" alt="Start Page" width="420" /></td>
-    </tr>
-    <tr>
       <td align="center"><img src="./src/assets/publicassetspuzzle.png" alt="Puzzle Page" width="420" /></td>
-      <td align="center"><img src="./src/assets/publicassetscompleted.png" alt="Completed Page" width="420" /></td>
     </tr>
     <tr>
-      <td align="center" colspan="2"><img src="./src/assets/publicassetsleaderboard.png" alt="Leaderboard Page" width="860" /></td>
+      <td align="center"><img src="./src/assets/publicassetscompleted.png" alt="Completed Page" width="420" /></td>
+      <td align="center"><img src="./src/assets/publicassetsleaderboard.png" alt="Leaderboard Page" width="420" /></td>
     </tr>
   </table>
 </div>
