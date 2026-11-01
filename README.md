@@ -96,6 +96,16 @@ Preview the built app:
 npm run preview
 ```
 
+## How to Play
+
+1. Open the Home page and click the Start button.
+2. Enter your name on the Start page.
+3. Press Start to begin the logo puzzle challenge.
+4. Drag and drop the shuffled image pieces to rebuild the logo.
+5. Complete the puzzle before the timer runs out.
+6. Solve multiple puzzles to increase your score and progress.
+7. After completing the challenge, view your result on the completion page and check the leaderboard.
+
 ## Gameplay Overview
 
 - The user begins on the Home screen
@@ -105,26 +115,6 @@ npm run preview
 - Advances to the next puzzle after each completed round
 - Reaches the completion screen after finishing all puzzles
 - View the leaderboard to see top scores
-
-## How to Run
-
-Clone the repository:
-
-```bash id="yf2"
-git clone https://github.com/Sradha-Sivadas/logohunt.git
-```
-
-Install dependencies:
-
-```bash id="yf3"
-npm install
-```
-
-Start development server:
-
-```bash id="yf4"
-npm run dev
-```
 
 ## Author
 
