@@ -33,11 +33,11 @@ src/
 
 ## Screenshots
 
-### Start Page
-<img src="./src/assets/publicassetsstart.png" alt="Start Page" width="800" />
-
 ### Home Page
 <img src="./src/assets/publicassetshome.png" alt="Home Page" width="800" />
+
+### Start Page
+<img src="./src/assets/publicassetsstart.png" alt="Start Page" width="800" />
 
 ### Puzzle Page
 <img src="./src/assets/publicassetspuzzle.png" alt="Puzzle Page" width="800" />
